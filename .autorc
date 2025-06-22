@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "zenkora",
+  "repo": "container-gwqyng",
+  "name": "zenkora",
+  "email": "13915917+zenkora@users.noreply.github.com",
+}
